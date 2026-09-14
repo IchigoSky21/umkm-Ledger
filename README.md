@@ -273,8 +273,4 @@ If this project is intended for public reuse, adding an explicit license would m
 
 ---
 
-## 👤 Author
-
-Created by **IchigoSky21**.
-
 If you find the project useful or want to explore the implementation, feel free to inspect the source code and experiment with the application.
