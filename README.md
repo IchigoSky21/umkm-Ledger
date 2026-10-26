@@ -11,7 +11,7 @@ TokoKita is a lightweight, client-side web application for small and medium-size
 
 **Try TokoKita:**
 
-https://ichigosky21.github.io/UMKM-Ledger/
+https://ichigosky21.github.io/umkm-Ledger/
 
 **Project background / design reference:**
 
